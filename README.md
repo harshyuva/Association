@@ -1,4 +1,5 @@
 # Associationscop
+
 I always wondered, why there was no functionality to use associations not only on ActiveRecord objects but on scopes as well. When I have
 
 current_user.topics # => #<ActiveRecord::Relation [...]>
