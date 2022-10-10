@@ -17,3 +17,4 @@ over and over again across all of my models to write something like Topic.of_use
 When you have this problem, the AssociationScope gem is for you!
 
 Some changes
+some changes again
